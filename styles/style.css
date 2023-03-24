@@ -1,11 +1,11 @@
 * {
-  margin: 0;
+  margin: 0 auto;
 }
 
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(243, 214, 156);
   align-items: center;
-  justify-content: center;
 }
 
 a {
